@@ -6,8 +6,7 @@ This project focuses on detecting fraudulent transactions using machine learning
 ## 📹 Demo Video
 Below is a screen recording of the web app in action:
 
-![Demo Video](static/demo_video1.mp4)
-
+https://github.com/user-attachments/assets/1798d6eb-ad8e-40be-8132-1814cec8b4d3
 
 ---
 
