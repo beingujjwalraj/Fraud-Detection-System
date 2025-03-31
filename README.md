@@ -6,9 +6,8 @@ This project focuses on detecting fraudulent transactions using machine learning
 ## 📹 Demo Video
 Below is a screen recording of the web app in action:
 
-![Demo Video](demo_video1.mp4)
+![Demo Video](static/demo_video1.mp4)
 
-Ensure the `demo_video.mp4` file is placed inside the `static/` folder so it can be accessed properly in the README.
 
 ---
 
